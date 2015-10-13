@@ -3,20 +3,22 @@
 <?xml-stylesheet type="text/css" href="/assets/css/atom.css" ?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>https://phlow.github.io/feeling-responsive/</id>
-	<title>Feeling Responsive</title>
-	<updated>2015-10-13T20:59:55+05:30</updated>
+	<title>Marumugam</title>
+	<updated>2015-10-13T22:16:25+05:30</updated>
 
-	<subtitle>»Feeling Responsive« is a responsive theme for Jekyll based on the fabulous foundation framework with beautiful typography and a bright color palette.</subtitle>
+	<subtitle>Our »vision« is creation of Artificial General Intelligence and AI tools to support it. An Agile mind that can explore infinite possibilities, with thought vectors of higher dimensions, in the quest for truth.</subtitle>
 
 	
 		
 		<author>
 			
-				<name>Phlow</name>
+				<name>Suriyadeepan Ram</name>
 			
 			
+				<email>suriyadeepan.r@gmail.com</email>
 			
-				<uri>http://phlow.de/</uri>
+			
+				<uri>http://suriyadeepan.me</uri>
 			
 		</author>
 	
@@ -37,11 +39,9 @@
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -503,11 +503,9 @@ element&lt;/td&gt;
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -536,11 +534,9 @@ element&lt;/td&gt;
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -602,11 +598,9 @@ element&lt;/td&gt;
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -672,11 +666,9 @@ image:
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -743,11 +735,9 @@ image:
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -806,11 +796,9 @@ image:
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -881,11 +869,9 @@ image:
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -952,11 +938,9 @@ image:
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
@@ -1024,11 +1008,9 @@ image:
 				
 				<author>
 					
-						<name>Phlow</name>
+						<name>phlow</name>
 					
 					
-					
-						<uri>http://phlow.de/</uri>
 					
 				</author>
 			
